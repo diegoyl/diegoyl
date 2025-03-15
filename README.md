@@ -9,11 +9,11 @@
 
 ### Here are some of the projects I've worked on:
 
-<strong>🐟🖼️ My Portfolio Site</strong> / [site](https://diegoyl.com)  /  [repo](https://github.com/diegoyl/portfolio2025)
+<strong>🐟🖼️ My Portfolio Site</strong> / [site](https://diegoyl.com)  /  [`portfolio2025`](https://github.com/diegoyl/portfolio2025)
 
-<strong>🎶🧑‍🌾 Beatfarm</strong> / A hip-hop beat-making game / [web app](https://diegoyl.com/beatfarm-web)  /  [repo](https://github.com/diegoyl/beatfarm-web)
+<strong>🎶🧑‍🌾 Beatfarm</strong> / A hip-hop beat-making game / [web app](https://diegoyl.com/beatfarm-web)  /  [`beatfarm-web`](https://github.com/diegoyl/beatfarm-web)
 
-<strong>⚽🔤 Tactical Type</strong> / A dynamic soccer typeface / [demo site](https://diegoyl.github.io/tactical-type/) /  [repo](https://github.com/diegoyl/tactical-type)
+<strong>⚽🔤 Tactical Type</strong> / A dynamic soccer typeface / [demo site](https://diegoyl.github.io/tactical-type/) /  [`tactical-type`](https://github.com/diegoyl/tactical-type)
 
 ### I Have Experience With:
 
