@@ -1,5 +1,3 @@
-![ezgif com-gif-maker](https://github.com/user-attachments/assets/09ddecd4-c31d-4792-baca-1565ab41bd82)
-
 ![ezgif com-gif-maker2](https://github.com/user-attachments/assets/7b330708-1cbe-4e9f-9e28-9990e3fa442d)
 
 
