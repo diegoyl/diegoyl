@@ -6,7 +6,7 @@
 
 ### I love making things, experimenting, and learning new things along the way.
  I recently graduated from MIT, where I took classes on design, computer science, mechanical engineering, and music!
-
+<br></br>
 ### Here are some of the projects I've worked on:
 
 <strong>🐟 🖼️ My Portfolio Site</strong> / [site](https://diegoyl.com)  /  [`portfolio2025`](https://github.com/diegoyl/portfolio2025)
@@ -14,7 +14,8 @@
 <strong>🎶 🧑‍🌾 Beatfarm</strong> / A hip-hop beat-making game / [web app](https://diegoyl.com/beatfarm-web)  /  [`beatfarm-web`](https://github.com/diegoyl/beatfarm-web)
 
 <strong>⚽ 🔤 Tactical Type</strong> / A dynamic soccer typeface / [demo site](https://diegoyl.github.io/tactical-type/) /  [`tactical-type`](https://github.com/diegoyl/tactical-type)
-
+<br></br>
 ### I Have Experience With:
 
 Python, JavaScript, HTML, CSS, React, Bootstrap, Typescript, Flask, MongoDB, Angular, web animations, and more!
+<br></br>
