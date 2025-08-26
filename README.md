@@ -19,5 +19,5 @@
 <br></br>
 ### I Have Experience With:
 
-Python, JavaScript, HTML, CSS, React, Bootstrap, Typescript, Flask, MongoDB, Angular, web animations, and more!
+Python, HTML, CSS, React, Typescript, Tailwind, MongoDB, PostgreSQL, web animations, and more!
 <br></br>
