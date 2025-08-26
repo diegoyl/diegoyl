@@ -13,6 +13,8 @@
 
 <strong>🎶 🧑‍🌾 Beatfarm</strong> / A hip-hop beat-making game / [web app](https://diegoyl.com/beatfarm-web)  /  [`beatfarm-web`](https://github.com/diegoyl/beatfarm-web)
 
+<strong>🦀 🪩 Reji's Rave</strong> / A game about a crab who loves to dance / [web app](https://rejis-rave.vercel.app/)  /  [`crab-game`](http://github.com/diegoyl/crab-game/)
+
 <strong>⚽ 🔤 Tactical Type</strong> / A dynamic soccer typeface / [demo site](https://diegoyl.github.io/tactical-type/) /  [`tactical-type`](https://github.com/diegoyl/tactical-type)
 <br></br>
 ### I Have Experience With:
