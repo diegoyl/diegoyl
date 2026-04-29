@@ -4,8 +4,8 @@
 ## 👋 Hi, I’m Diego! 
 
 
-### I love making things, experimenting, and learning new things along the way.
- I recently graduated from MIT, where I took classes on design, computer science, mechanical engineering, and music!
+### I love making things across design and code, experimenting with new technologies, and picking up new skills.
+ I recently graduated from MIT, where I took classes on design, computer science, mechanical engineering, and music.
 <br></br>
 ### Here are some of the projects I've worked on:
 
@@ -19,5 +19,5 @@
 <br></br>
 ### I Have Experience With:
 
-Python, HTML, CSS, React, Typescript, Tailwind, MongoDB, PostgreSQL, web animations, and more!
+React, TypeScript, Pyton, HTML/CSS, a bit of C++, Godot, web animations, PostgreSQL, databases, APIs and more!
 <br></br>
